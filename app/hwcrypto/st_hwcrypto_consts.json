@@ -1,0 +1,10 @@
+{
+    "header": "st_hwcrypto_consts.h",
+    "constants": [
+        {
+            "name": "ST_HWCRYPTO_UUID",
+            "value": "65a3db8e-13ff-4ea5-9a3d-639972ee25d2",
+            "type": "uuid"
+        }
+    ]
+}

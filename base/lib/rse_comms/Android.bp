@@ -1,0 +1,5 @@
+dirgroup {
+    name: "trusty_dirgroup_trusty_hardware_st_base_lib_rse_comms",
+    dirs: ["."],
+    visibility: ["//trusty/vendor/google/aosp/scripts"],
+}

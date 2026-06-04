@@ -1,0 +1,2 @@
+PLATFORM_SOC := stm32mp257f
+PLATFORM := stm32mp2
